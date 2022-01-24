@@ -1,0 +1,9 @@
+1. create all boxes
+2. create background image
+3. create header
+4. create the input section
+5. create the todo items list section
+6. firebase
+7. create the ability to save date in firebase db
+8. create the functionality to grab data from db
+9. live update with the new status of completed     
